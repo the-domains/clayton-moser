@@ -1,0 +1,28 @@
+name: Clayton Moser
+favicon: null
+layout_spectrum: 0.21637864783406258
+typography_spectrum: 0.7456738904584199
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.624351117759943
+  lightness: 0.8434773664921522
+  saturation: 0.9990036066155881
+  rhythmicContrast: 0.8328064037486911
+purpose: []
